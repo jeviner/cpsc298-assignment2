@@ -2,7 +2,7 @@
 Jessica Viner
 2345566
 viner@chapman.edu
-CPSC 298 - 07
+CPSC 298 - 09
 Programming Assignment 2: Loops, Arrays & Functions
 conversion.cpp
 */
@@ -14,6 +14,6 @@ using namespace std;
 
 int main(){
 
-  
+
   return 0;
 }
