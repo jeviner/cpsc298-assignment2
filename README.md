@@ -1,9 +1,9 @@
-# cpsc298-assignment2
+### cpsc298-assignment2
 
 >Jessica Viner
-2345566
+>2345566
 
 
 ###### References:
 >zyBooks
-cplusplus.com
+>cplusplus.com
