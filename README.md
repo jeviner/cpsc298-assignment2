@@ -7,7 +7,6 @@
 >viner@chapman.edu
 >
 >CPSC 298 - 09
->
 >Programming Assignment 2: Loops, Arrays & Functions
 
 
