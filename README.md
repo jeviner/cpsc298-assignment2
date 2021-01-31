@@ -1,11 +1,9 @@
 # cpsc298-assignment2
 
-Jessica Viner
+>Jessica Viner
 2345566
 
-:balloon:
 
 ### References:
-zyBooks
-
+>zyBooks
 cplusplus.com
