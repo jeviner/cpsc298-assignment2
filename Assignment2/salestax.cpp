@@ -12,6 +12,7 @@ salestax.cpp
 using namespace std;
 
 float addTax(float taxRate, float cost){
+
   float total = cost + (taxRate*cost);
   return total;
 }
